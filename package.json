@@ -1,0 +1,26 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "<img src=\"https://devmounta.in/img/logowhiteblue.png\" width=\"250\" align=\"right\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvankems/ecommerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvankems/ecommerce/issues"
+  },
+  "homepage": "https://github.com/nvankems/ecommerce#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mongojs": "^2.3.0"
+  }
+}
